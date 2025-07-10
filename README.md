@@ -54,12 +54,6 @@ Sou um **desenvolvedor em constante evolução**, apaixonado por criar soluçõe
 
 ---
 
-## 🌟 **Featured Projects**
-
-Confira alguns dos meus projetos em destaque fixados no perfil! Cada um representa uma etapa da minha jornada de aprendizado e crescimento.
-
----
-
 ## 🎨 **Portfolio**
 
 **Quer ver meu trabalho em ação?**  
